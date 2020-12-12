@@ -1,6 +1,8 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"fnt_welcome","path":"fonts/fnt_welcome/fnt_welcome.yy",},"order":0,},
+    {"id":{"name":"obj_welcome","path":"objects/obj_welcome/obj_welcome.yy",},"order":0,},
+    {"id":{"name":"rm_welcome","path":"rooms/rm_welcome/rm_welcome.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -14,7 +16,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_welcome","path":"rooms/rm_welcome/rm_welcome.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
