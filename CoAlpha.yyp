@@ -1,7 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":0,},
+    {"id":{"name":"obj_cam_welcome","path":"objects/obj_cam_welcome/obj_cam_welcome.yy",},"order":1,},
     {"id":{"name":"fnt_welcome","path":"fonts/fnt_welcome/fnt_welcome.yy",},"order":0,},
     {"id":{"name":"obj_welcome","path":"objects/obj_welcome/obj_welcome.yy",},"order":0,},
+    {"id":{"name":"spr_terrain","path":"sprites/spr_terrain/spr_terrain.yy",},"order":0,},
     {"id":{"name":"rm_welcome","path":"rooms/rm_welcome/rm_welcome.yy",},"order":0,},
   ],
   "Options": [
